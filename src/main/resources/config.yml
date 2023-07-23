@@ -1,0 +1,23 @@
+################################################
+###========= EARTH CORP MENU PLUGIN =========###
+################################################
+
+main-menu-title: '&6&lMenu'
+
+corp1-button-material: 'IRON_BLOCK'
+corp1-button-name: '&4&lCORPORATION 1'
+
+corp2-button-material: 'IRON_BLOCK'
+corp2-button-name: '&4&lCORPORATION 2'
+
+corp3-button-material: 'IRON_BLOCK'
+corp3-button-name: '&4&lCORPORATION 3'
+
+corp4-button-material: 'IRON_BLOCK'
+corp4-button-name: '&4&lCORPORATION 4'
+
+corp5-button-material: 'IRON_BLOCK'
+corp5-button-name: '&4&lCORPORATION 5'
+
+corp6-button-material: 'IRON_BLOCK'
+corp6-button-name: '&4&lCORPORATION 6'

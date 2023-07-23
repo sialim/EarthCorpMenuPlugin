@@ -1,0 +1,4 @@
+name: EarthCorpMenuPlugin
+version: '${project.version}'
+main: me.sialim.earthcorpmenuplugin.EarthCorpMenuPlugin
+api-version: 1.19
